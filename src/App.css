@@ -1,0 +1,15 @@
+#root{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.mainPage{
+    flex-grow:1;
+}
+.titleForm{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(255,245,223,1) 100%);
+}
+
+  
+  
